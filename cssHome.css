@@ -1,0 +1,27 @@
+.bg {
+    
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    
+}
+
+.frontHome {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    
+}
+
+body{
+    background-color: lightblue;
+    
+}
+
+
+h1 {
+    font-size: 100px;  
+}
+
